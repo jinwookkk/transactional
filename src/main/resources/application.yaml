@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: transactional
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/SIMPLE_DATABASE
+    username: admin
+    password: 1234
